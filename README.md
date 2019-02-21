@@ -5,5 +5,5 @@
  *내용 : 벽과 각 각의 특수한 장벽들을 이용하여 목표한 시간만큼 동안 적들의 침입을 최대한 지연시키자
 
 ## 유사한 게임 
-(![Alt text](C:\Users\이정진\0Downloads\캡쳐.PNG)
+(![text](C:\Users\이정진\Downloads\캡쳐.PNG)
 
