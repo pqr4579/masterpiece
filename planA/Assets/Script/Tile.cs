@@ -6,6 +6,11 @@ public class Tile : MonoBehaviour {
 
     public Vector2 point;
     public int build_able;
+    public Color can = Color.green;
+    public Color cant = Color.red;
+    public Color end = Color.black;
+    public Color start = Color.white;
+
 
     private void Awake()
     {
