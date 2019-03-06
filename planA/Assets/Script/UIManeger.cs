@@ -25,7 +25,6 @@ public class UIManeger : MonoBehaviour {
     public void build_mode()
     {
 
-
     }
 
 	// Use this for initialization
